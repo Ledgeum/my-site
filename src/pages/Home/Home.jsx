@@ -13,8 +13,7 @@ function Home() {
             <span className={styles.accent}>remarkable.</span>
           </h1>
           <p className={styles.heroSub}>
-            This is your new website. Clean, fast, and ready to customise.
-            Replace this text with your own story.
+            Use it conveniently, quickly, and safely. Everything is in your hands. Be the first.
           </p>
         </div>
         <div className={styles.heroGrid} aria-hidden="true" />
