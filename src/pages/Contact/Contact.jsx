@@ -32,8 +32,8 @@ function Contact() {
           <div className={styles.details}>
             <div className={styles.detail}>
               <span className={styles.detailLabel}>Email</span>
-              <a href="mailto:hello@mysite.com" className={styles.detailValue}>
-                hello@mysite.com
+              <a href="mailto:info@theplastik.com" className={styles.detailValue}>
+                info@theplastik.com
               </a>
             </div>
             <div className={styles.detail}>
@@ -44,7 +44,7 @@ function Contact() {
             </div>
             <div className={styles.detail}>
               <span className={styles.detailLabel}>Address</span>
-              <span className={styles.detailValue}>Your City, Country</span>
+              <span className={styles.detailValue}>Athens, Greece</span>
             </div>
           </div>
         </div>
