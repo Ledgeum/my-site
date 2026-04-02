@@ -16,14 +16,6 @@ function Home() {
             This is your new website. Clean, fast, and ready to customise.
             Replace this text with your own story.
           </p>
-          <div className={styles.heroBtns}>
-            <NavLink to="/services" className={styles.btnPrimary}>
-              Explore services
-            </NavLink>
-            <NavLink to="/about" className={styles.btnSecondary}>
-              Learn more →
-            </NavLink>
-          </div>
         </div>
         <div className={styles.heroGrid} aria-hidden="true" />
       </section>
