@@ -13,7 +13,7 @@ function Footer() {
               The<span>Plastik</span>
             </NavLink>
             <p className={styles.tagline}>
-              Building something great, one page at a time.
+              Building something great.
             </p>
           </div>
 
