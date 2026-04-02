@@ -10,7 +10,7 @@ function Footer() {
         <div className={styles.top}>
           <div className={styles.brand}>
             <NavLink to="/" className={styles.logo}>
-              MY<span>SITE</span>
+              The<span>Plastik</span>
             </NavLink>
             <p className={styles.tagline}>
               Building something great, one page at a time.
@@ -27,7 +27,7 @@ function Footer() {
         </div>
 
         <div className={styles.bottom}>
-          <p>© {year} MySite. All rights reserved.</p>
+          <p>© {year} ThePlastik. All rights reserved.</p>
         </div>
       </div>
     </footer>
