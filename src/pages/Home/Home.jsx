@@ -30,7 +30,6 @@ function Home() {
               { num: '01', title: 'Fast & Modern', desc: 'Built with React and Vite for blazing performance out of the box.' },
               { num: '02', title: 'Fully Responsive', desc: 'Looks great on every screen — mobile, tablet, and desktop.' },
               { num: '03', title: 'Easy to Edit', desc: 'Clear file structure and clean code. Change anything in minutes.' },
-              { num: '04', title: 'GitHub Hosted', desc: 'Free hosting via GitHub Pages. Deploy with a single command.' },
             ].map(({ num, title, desc }) => (
               <div key={num} className={styles.card}>
                 <span className={styles.cardNum}>{num}</span>
