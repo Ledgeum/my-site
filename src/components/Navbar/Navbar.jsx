@@ -29,7 +29,7 @@ function Navbar() {
       <div className={styles.inner}>
         {/* Logo */}
         <NavLink to="/" className={styles.logo}>
-          MY<span>SITE</span>
+          The<span>Plastik</span>
         </NavLink>
 
         {/* Desktop links */}
