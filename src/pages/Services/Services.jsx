@@ -31,7 +31,7 @@ function Services() {
           <p className={styles.label}>What we do</p>
           <h1 className={styles.title}>Our services</h1>
           <p className={styles.sub}>
-            A brief overview of what you offer. Edit this text to match your business.
+            Everything you need is at your fingertips. Fast, high-quality, and convenient.
           </p>
         </div>
 
